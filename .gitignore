@@ -1,2 +1,4 @@
 waste.log
-log
+log/
+*log
+test/
